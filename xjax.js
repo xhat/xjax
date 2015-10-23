@@ -29,6 +29,7 @@ var Ajax = {};
     Ajax.upload = function(params){
         //do something, not realized, follow up!!
     }
+
     function init(url,data,requestType,func,dataType){
 
         if(!url){
